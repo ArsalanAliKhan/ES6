@@ -1,5 +1,5 @@
 
-var cars = ["HTML tags","CSS classes","Js.net"];
+var book = ["HTML tags","CSS classes","Js.net"];
 var x = 1000;
 var y = 2000;
 var z = x + y;
@@ -17,6 +17,6 @@ var person = {
 
 console.log(cars);
 document.getElementById("demo").innerHTML = 
-"Book Name: " + cars[0] + "<br>" + "Book price: " + "Rs." + z + "<br>" + "In this book: " 
+"Book Name: " + book[0] + "<br>" + "Book price: " + "Rs." + z + "<br>" + "In this book: " 
 + answer3 + "<br>" + "Book writer name: " + person.firstName + "<br>" + "Made in England: " 
 + (a==b);
