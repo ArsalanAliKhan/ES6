@@ -14,7 +14,6 @@ var person = {
   id     :  5566 ,
 };
 
-
 console.log(cars);
 document.getElementById("demo").innerHTML = 
 "Book Name: " + book[0] + "<br>" + "Book price: " + "Rs." + z + "<br>" + "In this book: " 
