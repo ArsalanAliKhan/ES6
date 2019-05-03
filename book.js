@@ -1,3 +1,8 @@
+/*
+ * DATA TYPES
+ *
+ */
+
 
 var cars = ["HTML tags","CSS classes","Js.net"];
 var x = 1000;
